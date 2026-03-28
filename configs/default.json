@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "num_patients": 6,
+  "capacity": 3,
+  "throughput_weight": 1.5,
+  "capacity_penalty": 12.0,
+  "dependency_penalty": 8.0,
+  "fairness_penalty": 0.0,
+  "qaoa_reps": 1,
+  "optimizer_maxiter": 60,
+  "output_dir": "results"
+}

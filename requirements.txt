@@ -1,0 +1,11 @@
+qiskit>=1.2
+qiskit-aer>=0.15
+qiskit-algorithms>=0.3
+qiskit-optimization>=0.7
+qiskit-machine-learning>=0.9
+numpy>=1.26
+pandas>=2.2
+docplex>=2.28
+matplotlib>=3.8
+flask>=2.3
+flask-cors>=4.0
